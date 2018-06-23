@@ -1,2 +1,2 @@
 # linked-list
-Programmed a linked list from scratch.
+Programmed a linked list class from scratch.
